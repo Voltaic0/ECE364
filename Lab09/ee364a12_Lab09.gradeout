@@ -1,0 +1,35 @@
+/home/ecegridfs/a/ee364ta/grading/Lab09/ee364a12
+
+----------------------------------------------------------------------------------
+FUNCTION               | DESCRIPTION        | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------------
+Account                  Account String 1     FAILED                     0/2     
+Account                  Account String 2     FAILED                     0/2     
+Account                  Attribute Check      Passed                     3/3     
+Account_performAction    Deposit Check        Passed                     2/2     
+Account_performAction    Withdraw Check 1     Passed                     2/2     
+Account_performAction    Withdraw Check 2     Passed                     2/2     
+Account_performAction    Withdraw Check 3     Passed                     2/2     
+Action                   Normal               Passed                     3/3     
+Action                   Wrong Amount         Passed                     2/2     
+Client                   Client String        Passed                     2/2     
+Client                   Normal               Passed                     3/3     
+DataPattern              JSON 1               Passed                     5/5     
+DataPattern              JSON 2               Passed                     5/5     
+Institute                Action on Missing    Error running function     0/3     
+Institute                Add Existing         Passed                     3/3     
+Institute                Add New              Passed                     3/3     
+Institute                Withdraw Check 1     Error running function     0/3     
+Institute                Withdraw Check 2     Error running function     0/3     
+InstituteLoading                              Error running function     0/10    
+getLinkPattern           Invalid 1            Passed                     2/2     
+getLinkPattern           Invalid 2            Passed                     2/2     
+getLinkPattern           Valid 1              Error running function     0/2     
+getLinkPattern           Valid 2              Passed                     2/2     
+getLinkPattern           Valid 3              Error running function     0/2     
+getNumberPattern         test combination     Passed                     4/4     
+getNumberPattern         test floats          Passed                     3/3     
+getNumberPattern         test scientific      Passed                     3/3     
+----------------------------------------------------------------------------------
+
+Total Score = 53.0

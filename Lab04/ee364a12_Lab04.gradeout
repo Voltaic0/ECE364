@@ -1,0 +1,15 @@
+/home/ecegridfs/a/ee364ta/grading/Lab04/ee364a12
+
+-----------------------------------------------------------------------------
+FUNCTION        | DESCRIPTION          | COMMENTS                 | POINTS  
+-----------------------------------------------------------------------------
+checkAllPrices    Set 1                  Passed                     5/5     
+checkAllPrices    Set 2                  Passed                     5/5     
+getDifference     Missing Provider       Passed                     1/1     
+getDifference     Provider Difference    Passed                     4/4     
+getFilter                                Error running function     0/10    
+getPriceOf        SBC 1                  Passed                     2.5/2.5 
+getPriceOf        SBC 2                  Passed                     2.5/2.5 
+-----------------------------------------------------------------------------
+
+Total Score = 20.0

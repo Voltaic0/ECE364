@@ -1,0 +1,30 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab07/ee364a12
+
+------------------------------------------------------------------------------------
+FUNCTION             | DESCRIPTION            | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------
+Capstone                                        Error running function     0/8     
+Circuit                                         Error running function     0/8     
+Circuit_comparisons    Bad Equality             Error running function     0/1     
+Circuit_comparisons    Bad Greater Than         Error running function     0/1     
+Circuit_comparisons    Bad Less Than            Error running function     0/1     
+Circuit_comparisons    Equality                 Error running function     0/1     
+Circuit_comparisons    Greater Than             Error running function     0/1     
+Circuit_comparisons    Less Than                Error running function     0/1     
+Circuit_getByType                               Error running function     0/9     
+Circuit_operators                               Error running function     0/10    
+Component              Bad Initializer          Passed                     1/1     
+Component              Normal Instance          Passed                     2/2     
+Component              String Representation    FAILED                     0/2     
+Enums                  ComponentType Check      Passed                     1/1     
+Enums                  ComponentType Content    Passed                     1/1     
+Enums                  Level Check              Passed                     1/1     
+Enums                  Level Content            Passed                     1/1     
+Project                                         Error running function     0/10    
+Project_operators                               Error running function     0/15    
+Student                Bad Initializer          Passed                     1/1     
+Student                Normal Instance          Passed                     2/2     
+Student                String Representation    Passed                     2/2     
+------------------------------------------------------------------------------------
+
+Total Score = 12.0

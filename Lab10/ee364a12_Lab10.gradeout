@@ -1,0 +1,25 @@
+/home/ecegridfs/a/ee364ta/grading/Lab10/ee364a12
+
+---------------------------------------------------------------------------------------
+FUNCTION                       | DESCRIPTION     | COMMENTS                 | POINTS  
+---------------------------------------------------------------------------------------
+timeSpan_TotalHours              Check 1           Error running function     0/2     
+timeSpan_TotalHours              Check 2           Error running function     0/2     
+timeSpan_addition                                  Error running function     0/4     
+timeSpan_comparison              Equality 1        Error running function     0/1     
+timeSpan_comparison              Equality 2        Error running function     0/1     
+timeSpan_comparison              Greater Than 1    Error running function     0/1     
+timeSpan_comparison              Greater than 2    Error running function     0/1     
+timeSpan_comparison              Less Than 1       Error running function     0/1     
+timeSpan_comparison              Less than 2       Error running function     0/1     
+timeSpan_floatScaling                              Error running function     0/4     
+timeSpan_initializer             AttributeCheck    Error running function     0/1     
+timeSpan_initializer             Large 1           Error running function     0/1     
+timeSpan_initializer             Large 2           Error running function     0/1     
+timeSpan_initializer             Wrong Value       Error running function     0/1     
+timeSpan_integerScaling                            Error running function     0/4     
+timeSpan_stringRepresentation    String1           Error running function     0/2     
+timeSpan_stringRepresentation    String2           Error running function     0/2     
+---------------------------------------------------------------------------------------
+
+Total Score = 0.0

@@ -1,0 +1,46 @@
+/home/ecegridfs/a/ee364ta/grading/Lab14/ee364a12
+
+Function 'getRoundTripCount' is a module function.
+Function 'getTotalDistanceFor' is a module function.
+Function 'getTrafficCount' is a module function.
+------------------------------------------------------------------------------------
+FUNCTION             | DESCRIPTION            | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------
+DirectionEnum          Attribute Check          Passed                     4/4     
+DirectionEnum          Enum Presence            Passed                     4/4     
+DirectionEnum          Type Check               Passed                     2/2     
+Leg                    Attributes               Passed                     2/2     
+Leg                    Distance Calculation     Passed                     6/6     
+Leg                    String Representation    Passed                     2/2     
+RoundTrip              Bad Initialization       Passed                     5/5     
+RoundTrip              Instance Check           Passed                     5/5     
+Trip                   Attributes               Passed                     1/1     
+Trip                   Bad Addition 1           Passed                     2/2     
+Trip                   Bad Addition 2           Passed                     2/2     
+Trip                   Bad Addition 3           Passed                     2/2     
+Trip                   Length Calculation       Passed                     4/4     
+Trip                   State Input 1            Passed                     1/1     
+Trip                   State Input 2            Passed                     1/1     
+Trip                   Valid Addition 1         Passed                     2/2     
+Trip                   Valid Addition 2         Passed                     2/2     
+Trip                   Valid Addition 3         FAILED                     0/2     
+Trip                   Valid Addition 4         Error running function     0/2     
+Trip                   Valid Addition 5         Error running function     0/2     
+Trip                   Zip Input 1              Passed                     1/1     
+Trip                   Zip Input 2              Passed                     1/1     
+getClosestIn           Sample 1                 Error running function     0/10    
+getClosestIn           Sample 2                 Error running function     0/10    
+getRoundTripCount      Round Trip Check 1       Passed                     5/5     
+getRoundTripCount      Round Trip Check 2       Passed                     5/5     
+getTotalDistanceFor    Person 1                 Passed                     5/5     
+getTotalDistanceFor    Person 2                 Passed                     5/5     
+getTrafficCount        Case 1                   Passed                     3/3     
+getTrafficCount        Case 2                   Passed                     3/3     
+getTrafficCount        Case 3                   FAILED                     0/3     
+getTrafficCount        Case 4                   FAILED                     0/3     
+getTrafficCount        Case 5                   Passed                     3/3     
+getTrafficCount        Case 6                   Passed                     3/3     
+getTrafficCount        Keyword Check            Passed                     2/2     
+------------------------------------------------------------------------------------
+
+Total Score = 83.0

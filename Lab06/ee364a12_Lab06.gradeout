@@ -1,0 +1,23 @@
+/home/ecegridfs/a/ee364ta/grading/Lab06/ee364a12
+
+----------------------------------------------------------------------------
+FUNCTION       | DESCRIPTION          | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------
+getAuthorOf      Book 1 Test            Passed                     2/2     
+getAuthorOf      Book 2 Test            Passed                     2/2     
+getAuthorOf      Invalid Book Test      Passed                     1/1     
+getBookInfo      Book 1 Test            Passed                     2/2     
+getBookInfo      Book 2 Test            Passed                     2/2     
+getBookInfo      Invalid Book Test      Passed                     1/1     
+getBooksBelow    Invalid Price Test     Passed                     1/1     
+getBooksBelow    Valid Price Test       Passed                     4/4     
+getBooksBy       Author 1 Test          Passed                     2/2     
+getBooksBy       Author 2 Test          Passed                     2/2     
+getBooksBy       Invalid Author Test    Passed                     1/1     
+getGenres                               FAILED                     0/5     
+searchForWord    Invalid Word Test      FAILED                     0/1     
+searchForWord    Word 1 Test            FAILED                     0/2     
+searchForWord    Word 2 Test            FAILED                     0/2     
+----------------------------------------------------------------------------
+
+Total Score = 20.0

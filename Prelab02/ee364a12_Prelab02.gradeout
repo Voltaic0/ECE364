@@ -1,0 +1,29 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab02/ee364a12
+
+--------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION     | COMMENTS                 | POINTS  
+--------------------------------------------------------------------------
+getAveragePrice     Missing Symbol    Passed                     1/1     
+getAveragePrice     Symbol 1          Passed                     3/3     
+getAveragePrice     Symbol 2          Passed                     3/3     
+getAveragePrice     Symbol 3          Passed                     3/3     
+getBestGain         Symbol 1          Passed                     5/5     
+getBestGain         Symbol 2          Passed                     5/5     
+getBestGain         Symbol 3          FAILED                     0/5     
+getCountOver        Missing Symbol    Passed                     1/1     
+getCountOver        Symbol 1          Passed                     3/3     
+getCountOver        Symbol 2          Passed                     3/3     
+getCountOver        Symbol 3          Passed                     3/3     
+getGainPercent      Missing Symbol    Passed                     2/2     
+getGainPercent      Symbol 1          Passed                     6.5/6.5 
+getGainPercent      Symbol 2          Passed                     6.5/6.5 
+getMaxDifference    Missing Symbol    Passed                     2/2     
+getMaxDifference    Symbol 1          Passed                     6.5/6.5 
+getMaxDifference    Symbol 2          Passed                     6.5/6.5 
+getVolumeSum        Bad Dates         Passed                     3/3     
+getVolumeSum        Missing Symbol    Passed                     2/2     
+getVolumeSum        Symbol 1          Passed                     5/5     
+getVolumeSum        Symbol 2          Passed                     5/5     
+--------------------------------------------------------------------------
+
+Total Score = 75.0

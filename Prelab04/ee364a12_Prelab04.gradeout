@@ -1,0 +1,22 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab04/ee364a12
+
+----------------------------------------------------------------------------
+FUNCTION              | DESCRIPTION   | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------
+getAbsentTechs                          Passed                     10/10   
+getStrainConsumption    Virus Name 1    Error running function     0/5     
+getStrainConsumption    Virus Name 2    Error running function     0/5     
+getStrainConsumption    Virus Name 3    Error running function     0/5     
+getStrainCost           70 % Match      Passed                     5/5     
+getStrainCost           Full Match      FAILED                     0/7     
+getStrainCost           Map Size        Passed                     3/3     
+getTechSpending         70 % Match      Passed                     5/5     
+getTechSpending         Full Match      FAILED                     0/7     
+getTechSpending         Map Size        Passed                     3/3     
+getTechWork             Tech Name 1     FAILED                     0/5     
+getTechWork             Tech Name 2     FAILED                     0/5     
+getTechWork             Tech Name 3     FAILED                     0/5     
+getUnusedStrains                        Passed                     10/10   
+----------------------------------------------------------------------------
+
+Total Score = 36.0

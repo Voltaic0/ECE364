@@ -1,0 +1,43 @@
+/home/ecegridfs/a/ee364ta/grading/Lab13/ee364a12
+
+---------------------------------------------------------------------------------
+FUNCTION       | DESCRIPTION               | COMMENTS                 | POINTS  
+---------------------------------------------------------------------------------
+Package          Attributes                  Passed                     2/2     
+Package          Bad Equality                Passed                     2/2     
+Package          Cost Calculation            Passed                     2/2     
+Package          Equality                    Passed                     2/2     
+Package          Greater Than                Passed                     2/2     
+Package          Inequality                  Passed                     2/2     
+Package          Invalid Addition Company    Passed                     3/3     
+Package          Invalid Addition Type       Passed                     3/3     
+Package          Less Than                   Passed                     2/2     
+Package          String Representation       Passed                     2/2     
+Package          Valid Addition 1            Passed                     3/3     
+PackageGroup     Attributes                  Passed                     3/3     
+PackageGroup     Bad City Input              Passed                     1/1     
+PackageGroup     Bad State Input             Passed                     1/1     
+PackageGroup     Bad Zip Input               Passed                     1/1     
+PackageGroup     City Input 1                Passed                     3/3     
+PackageGroup     City Input 2                Passed                     4/4     
+PackageGroup     Cost Calculation            Passed                     2/2     
+PackageGroup     Invalid Addition 1          Passed                     1/1     
+PackageGroup     Invalid Addition 2          Passed                     1/1     
+PackageGroup     Membership 1                Passed                     3/3     
+PackageGroup     Membership 2                Passed                     3/3     
+PackageGroup     State Input 1               Passed                     3/3     
+PackageGroup     State Input 2               Passed                     4/4     
+PackageGroup     String Representation       FAILED                     0/1     
+PackageGroup     Valid Addition 1            FAILED                     0/3     
+PackageGroup     Valid Addition 2            Error running function     0/3     
+PackageGroup     Valid Addition 3            Passed                     3/3     
+PackageGroup     Valid Addition 4            Error running function     0/3     
+PackageGroup     Zip Input 1                 Passed                     3/3     
+PackageGroup     Zip Input 2                 Passed                     4/4     
+calculateCost    Sample 1                    Passed                     5/5     
+calculateCost    Sample 2                    Passed                     5/5     
+getMaxCost       Bonus Question              Error running function     0/10    
+loadPackages                                 Error running function     0/15    
+---------------------------------------------------------------------------------
+
+Total Score = 75.0
